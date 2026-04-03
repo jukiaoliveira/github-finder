@@ -1,7 +1,7 @@
 .search {
     background-color: #2b3566;
     padding : 2rem;
-    border-style: 1rem;
+    border-radius: 1rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -17,6 +17,7 @@
 .search_container {
     display: flex;
     gap: 0.5rem;
+    border-radius: 1rem;
 }
 
 .search_container input,
